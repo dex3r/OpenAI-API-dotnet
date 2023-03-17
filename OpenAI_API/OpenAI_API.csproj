@@ -16,7 +16,7 @@
 		<PackageReleaseNotes>
 			Added support for ChatGPT, DALL·E image generations, and the moderation endpoint.
 		</PackageReleaseNotes>
-		<PackageId>OpenAI_dex3r_fork</PackageId>
+		<PackageId>dex3r.Forks.OpenAI</PackageId>
 		<Version>1.6.1</Version>
 		<AssemblyVersion>1.6.1.0</AssemblyVersion>
 		<FileVersion>1.6.1.0</FileVersion>
